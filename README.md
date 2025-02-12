@@ -9,7 +9,6 @@ I'm Paul - a data analyst and data engineer with a focus on taking complex data 
 Developed the Vote Maximizer tool while working at the Electoral Innovation Lab. The application represents the relative strength of the vote for a voter in any given location in the United States, taking into account features such as the number of elections they can vote in, the closeness of those elections, and their impact on other people. I was responsible for processing this data and delivering it to the front-end interactive components, as well as assisting in the front-end development and managing deployment of the application overall through Heroku.
 
 Languages: Python, HTML, CSS, JavaScript
-Repository: 
 
 ## Quiet Conflicts Data Visualizations
 
@@ -18,7 +17,6 @@ Repository:
 Data Visualizations done during the Data Visualization CAPP course that focus on the conflicts that are rarely in the news cycle across the globe- how intense they are, what kinds of conflicts they are, and how organized violence may be impacting the migration of people across the globe.
 
 Languages: Python, JavaScript, HTML, CSS
-Repositories:
 
 ## Creator Mapper
 
@@ -27,4 +25,3 @@ A project focused on estimating the incomes of people whose primary job is creat
 The majority of code being utilized for this project is private. Reach out individually if you are interested in contributing.
 
 Languages: Python
-Repository: N/A

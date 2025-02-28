@@ -14,7 +14,7 @@ Languages: Python, HTML, CSS, JavaScript
 
 [Infographic](https://github.com/PJSuoc/quiet-conflicts/blob/main/static_final/static_final.pdf) and [Interactive Site](https://pjsuoc.github.io/conflict-migration/)
 
-Data Visualizations done during the Data Visualization CAPP course that focus on the conflicts that are rarely in the news cycle across the globe- how intense they are, what kinds of conflicts they are, and how organized violence may be impacting the migration of people across the globe.
+Data Visualizations done during the Data Visualization CAPP course focusing on the conflicts that are rarely in the news cycle across the globe- how intense they are, what kinds of conflicts they are, and how organized violence may be impacting the migration of people across the globe. Built with events data from the ACLED Violent Events Database and World Bank population data.
 
 Languages: Python, JavaScript, HTML, CSS
 

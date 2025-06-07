@@ -10,6 +10,14 @@ Developed the Vote Maximizer tool while working at the Electoral Innovation Lab.
 
 Languages: Python, HTML, CSS, JavaScript
 
+## CommonThread
+
+[CommonThread](http://commonthread.unnamed.computer/)
+
+An open-source tool for organizations to collect, organize, analyze, and share stories. This application is designed to bridge the gap between qualitative and quantitative data for organizations in a very easy to use format that requires little technical expertise to operate. The application functions off of Django with PostgreSQL, and a front-end built using Sveltekit.
+
+Languages: Python, PostgreSQL, Javascript (Svelte)
+
 ## Quiet Conflicts Data Visualizations
 
 [Infographic](https://github.com/PJSuoc/quiet-conflicts/blob/main/static_final/static_final.pdf) and [Interactive Site](https://pjsuoc.github.io/conflict-migration/)

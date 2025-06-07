@@ -12,7 +12,7 @@ Languages: Python, HTML, CSS, JavaScript
 
 ## CommonThread
 
-[CommonThread](http://commonthread.unnamed.computer/)
+[CommonThread](http://turing.unnamed.computer:8030)
 
 An open-source tool for organizations to collect, organize, analyze, and share stories. This application is designed to bridge the gap between qualitative and quantitative data for organizations in a very easy to use format that requires little technical expertise to operate. The application functions off of Django with PostgreSQL, and a front-end built using Sveltekit.
 
